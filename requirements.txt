@@ -2,4 +2,5 @@ requests
 notebook
 ebooklib
 BeautifulSoup4
+numpy
 torch
